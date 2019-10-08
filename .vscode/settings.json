@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "CrawlerDB",
+            "dialect": "MySQL",
+            "name": "localmysql",
+            "password": "wo113661",
+            "port": 3307,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
